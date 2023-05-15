@@ -6471,6 +6471,90 @@
                     "logo": "https://car3.autoimg.cn/cardfs/series/g25/M0A/53/68/256x192_0_q95_autohomecar__ChxkqWJZNk-AMDC1AAkEvYJZKag648.png.png"
                 }
             ]
+        },
+        {
+            "id": 4177,
+            "name": "君威 | 2021款 GS 28T 精英型",
+            "modelFileName": "Buick_REGAL_20230512",
+            "url": "https://nets.autohome.com.cn/3dm/4177",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 8
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 58
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2021款 GS 28T 精英型",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g18/M02/70/CE/256x192_0_q95_autohomecar__ChxksGDnut6ADpU6AAYf8Ii07Kg627.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4178,
+            "name": "本田CR-V | 2023款 240TURBO 两驱活力版 5座",
+            "modelFileName": "Honda_CR_V_20221121_001_arcar",
+            "url": "https://nets.autohome.com.cn/3dm/4178",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
         }
     ],
     "range": 4000
