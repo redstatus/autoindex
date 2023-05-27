@@ -6555,6 +6555,98 @@
             "thumbnail": null,
             "parts": [],
             "specs": []
+        },
+        {
+            "id": 4179,
+            "name": "零跑C11 | 2023款 增程 180舒享版",
+            "modelFileName": "LEAPMOTOR_C11_20230523_V1",
+            "url": "https://nets.autohome.com.cn/3dm/4179",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4180,
+            "name": "红旗H6 | 2023款 2.0T 致臻版",
+            "modelFileName": "HongQi_H6_20230524",
+            "url": "https://nets.autohome.com.cn/3dm/4180",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 8
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 2
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 2
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 8
+                },
+                {
+                    "kind": "hub",
+                    "count": 58
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 2.0T 致臻版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g25/M0A/E4/17/256x192_0_q95_autohomecar__ChtliGOzlvCAGT4SAAjFMMiaMXI004.png.png"
+                }
+            ]
         }
     ],
     "range": 4000
