@@ -6722,6 +6722,165 @@
                     "logo": "https://img3.autoimg.cn/g26/M0B/89/9E/ChxkjmR3CeSAF5oBAANnVi1cgu4957.png"
                 }
             ]
+        },
+        {
+            "id": 4182,
+            "name": "型格 | 2022款 240TURBO CVT幻夜·科技版",
+            "modelFileName": "Honda_INTEGRARacecar_20230602",
+            "url": "https://nets.autohome.com.cn/3dm/4182",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 58
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 8
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 HATCHBACK 240TURBO CVT幻夜·尊享版",
+                    "logo": "https://img3.autoimg.cn/g27/M00/A9/5C/CjIFVWR9gISARauJAAOV2Y9GQYc893.png"
+                }
+            ]
+        },
+        {
+            "id": 4183,
+            "name": "仰望U8 | 2023款 豪华版",
+            "modelFileName": "BYD_U8_20230606",
+            "url": "https://nets.autohome.com.cn/3dm/4183",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 58
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 豪华版",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g24/M03/31/86/256x192_0_q95_autohomecar__Chtk3WO_30SAWZoRAAgKDJilg-s196.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4184,
+            "name": "福特电马 | 2021款 GT",
+            "modelFileName": "Infiniti_QX60_20221025_001",
+            "url": "https://nets.autohome.com.cn/3dm/4184",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
         }
     ],
     "range": 4000
