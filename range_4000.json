@@ -6881,6 +6881,306 @@
             "thumbnail": null,
             "parts": [],
             "specs": []
+        },
+        {
+            "id": 4185,
+            "name": "ID. Buzz | 2022款 People",
+            "modelFileName": "VOLKSWAGEN_BUZZ_20220318_V1",
+            "url": "https://nets.autohome.com.cn/3dm/4185",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2022款 People",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g28/M09/5D/41/256x192_0_q95_autohomecar__ChxkmmMYS1-AQmBTAAp77n5RR_o073.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4186,
+            "name": "凯迪拉克XT4 | 2023款 28T 两驱豪华型",
+            "modelFileName": "Cadillac_XT4_20230613",
+            "url": "https://nets.autohome.com.cn/3dm/4186",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 28T 两驱豪华型",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g27/M03/04/8C/256x192_0_q95_autohomecar__ChxkmWR-28yAFPCeAAj4MDdwyfQ851.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4204,
+            "name": "哈弗大狗 | 2021款 2.0T DCT四驱中华田园犬版",
+            "modelFileName": "HAVAL_DaGou_20230706",
+            "url": "https://nets.autohome.com.cn/3dm/4204",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2021款 2.0T DCT四驱中华田园犬版",
+                    "logo": "https://img3.autoimg.cn/g26/M06/09/13/ChtlxWSmmkSAXD1CAA52DCiJD1I477.png"
+                }
+            ]
+        },
+        {
+            "id": 4206,
+            "name": "AION S | 2023款 魅 580",
+            "modelFileName": "GuangQi_AION_20230710",
+            "url": "https://nets.autohome.com.cn/3dm/4206",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 魅 580",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g26/M00/9A/35/256x192_0_q95_autohomecar__ChsEdmNGiPeARhVLAAfS3QdHZjY746.png.png"
+                }
+            ]
         }
     ],
     "range": 4000
