@@ -7181,6 +7181,165 @@
                     "logo": "https://car2.autoimg.cn/cardfs/series/g26/M00/9A/35/256x192_0_q95_autohomecar__ChsEdmNGiPeARhVLAAfS3QdHZjY746.png.png"
                 }
             ]
+        },
+        {
+            "id": 4207,
+            "name": "沃尔沃XC60 | 2022款 B5 四驱智远运动版",
+            "modelFileName": "Volvo_XC60_0729_V2",
+            "url": "https://nets.autohome.com.cn/3dm/4207",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4208,
+            "name": "长安CS75 PLUS | 2022款 第二代 2.0T 自动尊贵型",
+            "modelFileName": "ChangAn_CS75Plus_20230726",
+            "url": "https://nets.autohome.com.cn/3dm/4208",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 61
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2022款 第二代 2.0T 自动尊贵型",
+                    "logo": "https://img3.autoimg.cn/g26/M0B/06/C4/ChxkjmTCOhOASu_UABdL99XHg5o933.png"
+                }
+            ]
+        },
+        {
+            "id": 4209,
+            "name": "锋兰达 | 2023款 2.0L CVT豪华版",
+            "modelFileName": "Toyota_FrontLander_20230728",
+            "url": "https://nets.autohome.com.cn/3dm/4209",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 61
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 2.0L CVT豪华版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g28/M07/81/EF/256x192_0_q95_autohomecar__ChwFkmGqJ0eAWaXwAAoASTZZKBE601.png.png"
+                }
+            ]
         }
     ],
     "range": 4000
