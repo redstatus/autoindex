@@ -7340,6 +7340,333 @@
                     "logo": "https://car2.autoimg.cn/cardfs/series/g28/M07/81/EF/256x192_0_q95_autohomecar__ChwFkmGqJ0eAWaXwAAoASTZZKBE601.png.png"
                 }
             ]
+        },
+        {
+            "id": 4210,
+            "name": "途观L | 2023款 改款 330TSI 自动两驱R-Line越享版",
+            "modelFileName": "VW_TGUANL_20230801",
+            "url": "https://nets.autohome.com.cn/3dm/4210",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 57
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 330TSI 自动两驱R-Line越享版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g18/M04/6C/41/256x192_0_q95_autohomecar__ChsE2GDkC7WACKfcAAvhUGY1WDk257.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4211,
+            "name": "发现运动版 | 2023款 249PS R-Dynamic SE 性能科技版",
+            "modelFileName": "Infiniti_QX60_20221025_001",
+            "url": "https://nets.autohome.com.cn/3dm/4211",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4212,
+            "name": "沃尔沃XC60 | 2024款 B5 四驱智远豪华版",
+            "modelFileName": "Volvo_XC60_20230728_001_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4212",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4214,
+            "name": "卡罗拉锐放 | 2023款 2.0L 旗舰版",
+            "modelFileName": "Toyota_CorollaCross_20230804",
+            "url": "https://nets.autohome.com.cn/3dm/4214",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 2.0L 旗舰版",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g26/M07/AE/58/256x192_0_q95_autohomecar__CjIFVmSiNxOAPF2IAAfOUjh4-LQ889.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4215,
+            "name": "格瑞维亚 | 2023款 2.5L混动 旗舰VIP版",
+            "modelFileName": "Toyota_Granvia_20230728_001_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4215",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4216,
+            "name": "逍客 | 2023款 基本型",
+            "modelFileName": "NISSAN_QASHQAI_20230807",
+            "url": "https://nets.autohome.com.cn/3dm/4216",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 基本型",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g26/M06/C7/24/256x192_0_q95_autohomecar__CjIFVmQ_1BiAKXm2AAtjWONoeRQ531.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4217,
+            "name": "缤越 | 2019款 运动款 260T DCT游侠 国VI",
+            "modelFileName": "GEELY_BinYue_20230808",
+            "url": "https://nets.autohome.com.cn/3dm/4217",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2019款 运动款 260T DCT Battle 国V",
+                    "logo": "https://img3.autoimg.cn/g28/M09/92/08/Chtlx2TSFxuAE-mEAAOKpdslCP8477.png"
+                }
+            ]
         }
     ],
     "range": 4000
