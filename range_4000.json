@@ -7667,6 +7667,351 @@
                     "logo": "https://img3.autoimg.cn/g28/M09/92/08/Chtlx2TSFxuAE-mEAAOKpdslCP8477.png"
                 }
             ]
+        },
+        {
+            "id": 4217,
+            "name": "缤越 | 2019款 运动款 260T DCT游侠 国VI",
+            "modelFileName": "GEELY_BinYue_20230808",
+            "url": "https://nets.autohome.com.cn/3dm/4217",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2019款 运动款 260T DCT Battle 国V",
+                    "logo": "https://img3.autoimg.cn/g28/M09/92/08/Chtlx2TSFxuAE-mEAAOKpdslCP8477.png"
+                }
+            ]
+        },
+        {
+            "id": 4218,
+            "name": "探岳 | 2022款 380TSI 四驱R-Line智联版",
+            "modelFileName": "VW_TAYRON_20230810",
+            "url": "https://nets.autohome.com.cn/3dm/4218",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2022款 380TSI 四驱R-Line智联版",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g29/M00/28/1D/256x192_0_q95_autohomecar__ChsFVWLrMS2AFliKAAmA_FGcudU425.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4219,
+            "name": "阿维塔11 | 2023款 长续航单电机版 5座",
+            "modelFileName": "AVATR_11_20230811",
+            "url": "https://nets.autohome.com.cn/3dm/4219",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 长续航单电机版 5座",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g26/M0B/25/68/256x192_0_q95_autohomecar__ChwFkGK5G9-AX-rzAAhHWlr8Ihw525.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4220,
+            "name": "传祺E9 | 2023款 E9 宗师",
+            "modelFileName": "MASTER_Trumpchi_E9_20230811_001_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4220",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4221,
+            "name": "沃尔沃S60 | 2024款 B4 智逸豪华版",
+            "modelFileName": "Volvo_S60_20230726_001_zhiyihaohuaban_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4221",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4222,
+            "name": "沃尔沃S60 | 2024款 B4 智逸豪华版",
+            "modelFileName": "Volvo_S60_20230726_001_zhiyihaohuaban_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4222",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4223,
+            "name": "红旗HS3 | 2023款 2.0T 四驱有为版",
+            "modelFileName": "HONGQI_HS3_20230810_V1",
+            "url": "https://nets.autohome.com.cn/3dm/4223",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4224,
+            "name": "AION Y | 2021款 70 畅享版",
+            "modelFileName": "AION_Y_20230816",
+            "url": "https://nets.autohome.com.cn/3dm/4224",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "hub",
+                    "count": 58
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2021款 70 畅享版",
+                    "logo": "https://img3.autoimg.cn/g26/M03/F6/D5/ChtlxWTciYmAdS6bABaw4P6oVtg034.png"
+                }
+            ]
+        },
+        {
+            "id": 4225,
+            "name": "雅阁新能源 | 2023款 2.0L e:PHEV 旗舰版",
+            "modelFileName": "Accord_PHEV_20230808_001_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4225",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
         }
     ],
     "range": 4000
