@@ -8012,6 +8012,90 @@
             "thumbnail": null,
             "parts": [],
             "specs": []
+        },
+        {
+            "id": 4226,
+            "name": "T-ROC探歌 | 2023款 300TSI DSG两驱辰光版",
+            "modelFileName": "VW_TROC_20230818",
+            "url": "https://nets.autohome.com.cn/3dm/4226",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 300TSI DSG两驱辰光版",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g28/M07/99/30/256x192_0_q95_autohomecar__ChxkmmRCU7iAKQ0eAAh36lobgw0945.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4227,
+            "name": "海豹 | 2023款 冠军版 650km 四驱性能版",
+            "modelFileName": "BYD_Seal_20230817_001_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4227",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
         }
     ],
     "range": 4000
