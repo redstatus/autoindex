@@ -8096,6 +8096,672 @@
             "thumbnail": null,
             "parts": [],
             "specs": []
+        },
+        {
+            "id": 4228,
+            "name": "奥迪Q5L | 2023款 40T 豪华动感型",
+            "modelFileName": "Audi_Q5L_20230828_001_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4228",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4229,
+            "name": "途昂 | 2020款 530 V6 四驱豪华版 国VI",
+            "modelFileName": "VW_TERAMONT_20230904",
+            "url": "https://nets.autohome.com.cn/3dm/4229",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2020款 530 V6 四驱豪华版 国VI",
+                    "logo": "https://img3.autoimg.cn/g25/M01/C1/6B/ChtliGT1dg-APQ3LAAPZ2O0n_rg112.png"
+                }
+            ]
+        },
+        {
+            "id": 4230,
+            "name": "皓瀚 | 2023款 DH-i 1.5T 旗舰版",
+            "modelFileName": "Aeolus_haohan_20230825_001_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4230",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4231,
+            "name": "天籁 | 2022款 2.0T XV 尊享版",
+            "modelFileName": "Nissan_Altima_2022_20230927_001_VIchexingku",
+            "url": "https://nets.autohome.com.cn/3dm/4231",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4232,
+            "name": "哈弗枭龙MAX | 2023款 1.5L Hi4 105 四驱智能旗舰版",
+            "modelFileName": "GWM_HAVALMAX_20231010_001_V25",
+            "url": "https://nets.autohome.com.cn/3dm/4232",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4233,
+            "name": "北京BJ40 | 2024款 基本型",
+            "modelFileName": "BeiJing_BJ40_20230911",
+            "url": "https://nets.autohome.com.cn/3dm/4233",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 基本型",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g24/M05/05/8E/256x192_0_q95_autohomecar__Chxky2TsRBmAUd70AAYdWLRCBuQ559.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4234,
+            "name": "理想L8 | 2023款 Max",
+            "modelFileName": "LI_L8_20230912",
+            "url": "https://nets.autohome.com.cn/3dm/4234",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 Max",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g28/M00/B8/AE/256x192_0_q95_autohomecar__ChxkmmM2zByAJCbUAAjR3xLZavw229.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4235,
+            "name": "布加迪Vision GT | 2015款 基本型",
+            "modelFileName": "BUGATTI_VersionGT_20230914",
+            "url": "https://nets.autohome.com.cn/3dm/4235",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 51
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2015款 基本型",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g27/M07/C5/02/256x192_0_q95_autohomecar__ChsEnVuDuTSABNAkAATNT0vkcxQ232.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4236,
+            "name": "Aventador | 2019款 Aventador SVJ",
+            "modelFileName": "Lamborghini_Aventador_20230915",
+            "url": "https://nets.autohome.com.cn/3dm/4236",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2019款 Aventador SVJ",
+                    "logo": "https://img3.autoimg.cn/g28/M02/29/D0/ChxkmmUIF6CAN0pTAAe3m5uXP-k954.png"
+                }
+            ]
+        },
+        {
+            "id": 4237,
+            "name": "雷克萨斯RZ | 2023款 450e 四驱纵行版",
+            "modelFileName": "LexusRZ_20230906_V1",
+            "url": "https://nets.autohome.com.cn/3dm/4237",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4238,
+            "name": "标致408X | 2023款 无界版",
+            "modelFileName": "Peugeot_408X_20230921",
+            "url": "https://nets.autohome.com.cn/3dm/4238",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 2
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 2
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 2
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 6
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 2
+                },
+                {
+                    "kind": "painting",
+                    "count": 2
+                },
+                {
+                    "kind": "empennage",
+                    "count": 2
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 59
+                },
+                {
+                    "kind": "package",
+                    "count": 1
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 无界版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g25/M01/AB/E3/256x192_0_q95_autohomecar__ChtliGO-kmiAM-2tAAiIzniCr14159.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4239,
+            "name": "中兴1986 | 2023款 2.0T乘用版手动柴油两驱豪华型标双",
+            "modelFileName": "1986_20230906_V1",
+            "url": "https://nets.autohome.com.cn/3dm/4239",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4241,
+            "name": "豹5 | 2023款 云辇旗舰版",
+            "modelFileName": "FangChengBao_Bao5_20231007",
+            "url": "https://nets.autohome.com.cn/3dm/4241",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 2
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 2
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 云辇旗舰版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g25/M06/2F/1E/256x192_0_q95_autohomecar__CjIFV2TZyQmAVBIfAAhY-GDSKoo915.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4242,
+            "name": "坦克400 | 2021款 试装车",
+            "modelFileName": "Tank_400_20231008",
+            "url": "https://nets.autohome.com.cn/3dm/4242",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2021款 试装车",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g27/M03/42/FD/256x192_0_q95_autohomecar__CjIFVWQ2EmSAWO4zAE4v7j1XyrU104.png.png"
+                }
+            ]
         }
     ],
     "range": 4000
