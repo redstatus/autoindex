@@ -8762,6 +8762,954 @@
                     "logo": "https://car3.autoimg.cn/cardfs/series/g27/M03/42/FD/256x192_0_q95_autohomecar__CjIFVWQ2EmSAWO4zAE4v7j1XyrU104.png.png"
                 }
             ]
+        },
+        {
+            "id": 4243,
+            "name": "海鸥 | 2023款 飞翔版",
+            "modelFileName": "BYD_HaiOu_20231011",
+            "url": "https://nets.autohome.com.cn/3dm/4243",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 飞翔版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g28/M0A/04/8B/256x192_0_q95_autohomecar__ChxkmmQmeySADRaYAAdksPR6UEk617.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4244,
+            "name": "坦克400新能源 | 2023款 Hi4-T 超能版",
+            "modelFileName": "Tank_400_20231008",
+            "url": "https://nets.autohome.com.cn/3dm/4244",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 Hi4-T 超能版",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g24/M09/05/8B/256x192_0_q95_autohomecar__Chxky2TsQ56AHkzyAAd0PIEAghg599.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4245,
+            "name": "问界M7 | 2024款 1.5T 两驱Plus版 5座",
+            "modelFileName": "AITO_M7_20231023",
+            "url": "https://nets.autohome.com.cn/3dm/4245",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 1.5T 两驱Plus版 5座",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g30/M00/21/44/256x192_0_q95_autohomecar__ChwFlGLHmjeAJovFAAkEQ10kLUc891.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4246,
+            "name": "Model 3 | 2023款 长续航焕新版 双电机全轮驱动",
+            "modelFileName": "Tesla_Model3_20231024",
+            "url": "https://nets.autohome.com.cn/3dm/4246",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 61
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 长续航焕新版 双电机全轮驱动",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g28/M00/15/1B/256x192_0_q95_autohomecar__Chtlx2TxV2yAP5_-AAUxl0Dot3k383.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4247,
+            "name": "零跑C11 | 2023款 纯电 650智享版",
+            "modelFileName": "Leamp_C11_20231026",
+            "url": "https://nets.autohome.com.cn/3dm/4247",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 纯电 650智享版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g28/M05/76/37/256x192_0_q95_autohomecar__ChsEfV_qkV2AYqpiAAeP1xnjTOY096.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4248,
+            "name": "捷途旅行者 | 2023款 2.0T 四驱穿越PRO",
+            "modelFileName": "JETOUR_LvXingZhe_20231027",
+            "url": "https://nets.autohome.com.cn/3dm/4248",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 2.0T 四驱穿越PRO",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g24/M05/AD/B1/256x192_0_q95_autohomecar__Chtk3WP8T7mALmQjAAjHy7A9Y1c943.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4249,
+            "name": "锐界 | 2023款 锐界L 2.0T EcoBoost 四驱七座至尊型",
+            "modelFileName": "Ford_EDGE_20231103",
+            "url": "https://nets.autohome.com.cn/3dm/4249",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 锐界L 2.0T EcoBoost 四驱七座至尊型",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g24/M0A/81/69/256x192_0_q95_autohomecar__Chxky2P2wPmAOnyIAAkDhxAu0FU783.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4250,
+            "name": "理想L7 | 2023款 Max",
+            "modelFileName": "Li_L7_20231106",
+            "url": "https://nets.autohome.com.cn/3dm/4250",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "hub",
+                    "count": 63
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 Max",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g26/M05/7A/86/256x192_0_q95_autohomecar__ChxkjmSiN1eAYncjAAgqOjh33Yw910.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4251,
+            "name": "哈弗猛龙 | 2023款 Hi4 145 探索版",
+            "modelFileName": "HAVAL_MengLong_20231107",
+            "url": "https://nets.autohome.com.cn/3dm/4251",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 Hi4 145 探索版",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g26/M0B/20/B3/256x192_0_q95_autohomecar__ChtlxWSCmDmABTMYAAgs4ffnaTU660.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4252,
+            "name": "宋Pro新能源 | 2023款 冠军版 DM-i 110KM卓越型",
+            "modelFileName": "BYD_SongPRO_20231114",
+            "url": "https://nets.autohome.com.cn/3dm/4252",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 冠军版 DM-i 110KM卓越型",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g26/M05/37/31/256x192_0_q95_autohomecar__ChxkjmRrAPWAKsvqAAbSOsZsTOA284.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4253,
+            "name": "Bronco | 2024款 基本型",
+            "modelFileName": "Ford_Bronco_20231116",
+            "url": "https://nets.autohome.com.cn/3dm/4253",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 基本型",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g27/M07/AA/54/256x192_0_q95_autohomecar__ChxkmWQ5F9-AHNPwAA5iiqbRMMY075.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4254,
+            "name": "蔚来ES6 | 2023款 100kWh",
+            "modelFileName": "NIO_ES6_20231117",
+            "url": "https://nets.autohome.com.cn/3dm/4254",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 9
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 100kWh",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g28/M06/99/D5/256x192_0_q95_autohomecar__ChxkmmRCaVSASdqAAAXfWPsG2Hg318.png.png"
+                }
+            ]
         }
     ],
     "range": 4000
