@@ -9710,6 +9710,805 @@
                     "logo": "https://car3.autoimg.cn/cardfs/series/g28/M06/99/D5/256x192_0_q95_autohomecar__ChxkmmRCaVSASdqAAAXfWPsG2Hg318.png.png"
                 }
             ]
+        },
+        {
+            "id": 4255,
+            "name": "深蓝S7 | 2023款 200Max增程版",
+            "modelFileName": "ShengLan_S7_20231121",
+            "url": "https://nets.autohome.com.cn/3dm/4255",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "hub",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 200Max增程版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g26/M00/AC/A8/256x192_0_q95_autohomecar__ChxkjmOZyeuAQFCjAAUP0wVTDPM651.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4256,
+            "name": "元PLUS | 2023款 冠军版 510KM 卓越型",
+            "modelFileName": "BYD_YuanPlus_20231122",
+            "url": "https://nets.autohome.com.cn/3dm/4256",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 冠军版 510KM 卓越型",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g27/M0A/B2/93/256x192_0_q95_autohomecar__ChxkmWGUoUqAEwvlAAoFmcXPKMA868.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4257,
+            "name": "小鹏G6 | 2023款 700 四驱性能 Max",
+            "modelFileName": "XPeng_G6_20231128",
+            "url": "https://nets.autohome.com.cn/3dm/4257",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 700 四驱性能 Max",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g26/M03/CC/44/256x192_0_q95_autohomecar__ChxkjmQJh6yAbCQ4AAVG9Y69JvM834.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4258,
+            "name": "红旗HS5 | 2023款 2.0T 旗领Pro版",
+            "modelFileName": "HQ_HS5_20231129",
+            "url": "https://nets.autohome.com.cn/3dm/4258",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 2.0T 旗领Pro版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g30/M04/EE/74/256x192_0_q95_autohomecar__ChxknGRY7jGAaZ8dAAk912C4Q7w500.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4259,
+            "name": "别克GL8 | 2023款 ES陆尊 舒适型",
+            "modelFileName": "Buick_GL8_20231201",
+            "url": "https://nets.autohome.com.cn/3dm/4259",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 ES陆尊 舒适型",
+                    "logo": "https://img3.autoimg.cn/g30/M00/E8/30/ChxknGVppFmAGMxhABSX0ILd9h0580.png"
+                }
+            ]
+        },
+        {
+            "id": 4260,
+            "name": "途胜 | 2023款 途胜L 1.5T 自动两驱LUX尊贵版",
+            "modelFileName": "Hyundai_Tucson_20231204",
+            "url": "https://nets.autohome.com.cn/3dm/4260",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 途胜L 1.5T 自动两驱LUX尊贵版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g30/M07/9E/25/256x192_0_q95_autohomecar__ChwFlGA930mAJOz_AAq0K-szSck648.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4261,
+            "name": "五菱缤果 | 2023款 203km 舒享款",
+            "modelFileName": "WuLing_Bingo_20231206",
+            "url": "https://nets.autohome.com.cn/3dm/4261",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 203km 轻享款",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g29/M0A/C7/9B/256x192_0_q95_autohomecar__ChsFVWN1xk6ARBZTAAamXM6tR30198.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4262,
+            "name": "Cybertruck | 2020款 Prototype",
+            "modelFileName": "Tesla_CyberTruck_20231207",
+            "url": "https://nets.autohome.com.cn/3dm/4262",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 全轮驱动版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g25/M09/43/B4/256x192_0_q95_autohomecar__ChwFj2IxjaWAJCyHAAgTWGET74I876.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4263,
+            "name": "银河L7 | 2023款 1.5T 55km PRO",
+            "modelFileName": "Geely_L7_20231211",
+            "url": "https://nets.autohome.com.cn/3dm/4263",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "hub",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 1.5T 55km PRO",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g26/M07/DE/BC/256x192_0_q95_autohomecar__ChtlxWSiOT2AT0vwAAdj4Lt2iLU377.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4264,
+            "name": "雷克萨斯RX | 2023款 500h 四驱F SPORT Performance",
+            "modelFileName": "Lexus_RX_20231122_V1_350",
+            "url": "https://nets.autohome.com.cn/3dm/4264",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4265,
+            "name": "smart精灵#3 | 2023款 Premium版",
+            "modelFileName": "Smart_3_20231212",
+            "url": "https://nets.autohome.com.cn/3dm/4265",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "hub",
+                    "count": 60
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 Premium版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g27/M09/C4/B0/256x192_0_q95_autohomecar__ChxkmWQ9ToWAa_TxAAcsRavhO5o887.png.png"
+                }
+            ]
         }
     ],
     "range": 4000
