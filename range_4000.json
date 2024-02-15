@@ -10509,6 +10509,482 @@
                     "logo": "https://car2.autoimg.cn/cardfs/series/g27/M09/C4/B0/256x192_0_q95_autohomecar__ChxkmWQ9ToWAa_TxAAcsRavhO5o887.png.png"
                 }
             ]
+        },
+        {
+            "id": 4266,
+            "name": "小米SU7 | 2023款 750km Max",
+            "modelFileName": "XiaoMi_SU7_20231221",
+            "url": "https://nets.autohome.com.cn/3dm/4266",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 92
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 750km Max",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g26/M00/93/06/256x192_0_q95_autohomecar__ChxkjmVUhOWAABquAARSzCgK2Yc104.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4267,
+            "name": "Cybertruck | 2024款 Cyberbeast 野兽版",
+            "modelFileName": "Telsa_CyberTruck2024_20231226",
+            "url": "https://nets.autohome.com.cn/3dm/4267",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 92
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 2
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 Cyberbeast 野兽版",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g30/M01/ED/D4/256x192_0_q95_autohomecar__CjIFU2Vv7G-AY3G-AAVY5_7T9C4617.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4268,
+            "name": "问界M9 | 2024款 纯电 Ultra版 100kWh",
+            "modelFileName": "AITO_M9_20240103",
+            "url": "https://nets.autohome.com.cn/3dm/4268",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 92
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 纯电 Ultra版 100kWh",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g30/M06/79/99/256x192_0_q95_autohomecar__CjIFU2UBk6yAE9dBAAZpexbIwKg807.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4287,
+            "name": "Boxster | 2009款 Boxster S 3.4L",
+            "modelFileName": "Porsche_Boxster_20240117",
+            "url": "https://nets.autohome.com.cn/3dm/4287",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "sideSkirt",
+                    "count": 2
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 93
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 2
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 2
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 2
+                },
+                {
+                    "kind": "package",
+                    "count": 1
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2009款 Boxster S 3.4L",
+                    "logo": "https://img3.autoimg.cn/g31/M06/43/67/ChtlyGWqN_2AAlEiAALaW7wmIEc455.png"
+                }
+            ]
+        },
+        {
+            "id": 4288,
+            "name": "AION Y | 2023款 Younger",
+            "modelFileName": "Aion_Y_20240117_001",
+            "url": "https://nets.autohome.com.cn/3dm/4288",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4289,
+            "name": "哪吒X | 2023款 500 Lite",
+            "modelFileName": "Neta_X_20240108_001",
+            "url": "https://nets.autohome.com.cn/3dm/4289",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4290,
+            "name": "元PLUS | 2023款 冠军版 430KM 领先型",
+            "modelFileName": "BYD_Yuan_Plus_20240115_001",
+            "url": "https://nets.autohome.com.cn/3dm/4290",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4291,
+            "name": "大众ID.3 | 2023款 升级款 纯净智享版",
+            "modelFileName": "vw_id3_20240116_001",
+            "url": "https://nets.autohome.com.cn/3dm/4291",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4292,
+            "name": "奥拓 | 2006款 0.8L 快乐王子",
+            "modelFileName": "SUZUKI_ALTO_20240124",
+            "url": "https://nets.autohome.com.cn/3dm/4292",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "frontGrille",
+                    "count": 2
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 2
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 2
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 94
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2006款 0.8L 大王子",
+                    "logo": "https://img3.autoimg.cn/g31/M09/BE/19/ChtlyGWxw8yAHsTrAAkhztjJI6o155.png"
+                }
+            ]
+        },
+        {
+            "id": 4293,
+            "name": "哪吒S | 2024款 增程 1160版",
+            "modelFileName": "NetaS_20240109_001",
+            "url": "https://nets.autohome.com.cn/3dm/4293",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4294,
+            "name": "奇瑞iCAR 03 | 2024款 501km 四驱长续航智驾版",
+            "modelFileName": "ICAR_03_20240129_Hight_IWD",
+            "url": "https://nets.autohome.com.cn/3dm/4294",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4295,
+            "name": "中兴1949房车 | 2024款 远征版 2.3T 尊享款 4座",
+            "modelFileName": "1950_20240109_001",
+            "url": "https://nets.autohome.com.cn/3dm/4295",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4296,
+            "name": "汉 | 2023款 DM-i 冠军版 121KM 精英型",
+            "modelFileName": "BydHan_20240115_V1",
+            "url": "https://nets.autohome.com.cn/3dm/4296",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4299,
+            "name": "深蓝SL03 | 2023款 200Max增程版",
+            "modelFileName": "SL03_20240109_001",
+            "url": "https://nets.autohome.com.cn/3dm/4299",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
         }
     ],
     "range": 4000
