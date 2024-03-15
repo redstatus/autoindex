@@ -10985,6 +10985,385 @@
             "thumbnail": null,
             "parts": [],
             "specs": []
+        },
+        {
+            "id": 4302,
+            "name": "零跑C01 | 2023款 增程 316 智享版",
+            "modelFileName": "Leapmotor_C01_20240122_V1",
+            "url": "https://nets.autohome.com.cn/3dm/4302",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4304,
+            "name": "哪吒AYA | 2023款 318 Lite",
+            "modelFileName": "Neta_AYA_20240109_V1",
+            "url": "https://nets.autohome.com.cn/3dm/4304",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4305,
+            "name": "哪吒GT | 2023款 560",
+            "modelFileName": "Neta_GT_20240108_V1",
+            "url": "https://nets.autohome.com.cn/3dm/4305",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4306,
+            "name": "极氪X | 2024款 五座四驱版",
+            "modelFileName": "ZEEKR_X_20240226",
+            "url": "https://nets.autohome.com.cn/3dm/4306",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 94
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 五座四驱版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g24/M0A/67/0F/256x192_0_q95_autohomecar__Chxky2Pcf1qARV7sAAkzLRErHVA952.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4307,
+            "name": "海鸥 | 2023款 活力版",
+            "modelFileName": "BYD_Seagull_20240122_001",
+            "url": "https://nets.autohome.com.cn/3dm/4307",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4308,
+            "name": "零跑T03 | 2023款 310轻享版",
+            "modelFileName": "LingPao_T03_20240124_001",
+            "url": "https://nets.autohome.com.cn/3dm/4308",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4309,
+            "name": "五菱缤果 | 2023款 333km 快享款",
+            "modelFileName": "wuling_binguo_20240118_001",
+            "url": "https://nets.autohome.com.cn/3dm/4309",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4310,
+            "name": "MG Cyberster | 2024款 520km 传奇四驱版",
+            "modelFileName": "MG_Cyberster_20240129_001",
+            "url": "https://nets.autohome.com.cn/3dm/4310",
+            "thumbnail": null,
+            "parts": [],
+            "specs": []
+        },
+        {
+            "id": 4311,
+            "name": "理想MEGA | 2024款 Max",
+            "modelFileName": "Li_MEGA_20240308",
+            "url": "https://nets.autohome.com.cn/3dm/4311",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "hub",
+                    "count": 95
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 Max",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g26/M00/0E/E6/256x192_0_q95_autohomecar__ChtlxWUwmwOAXSLfAAUCBmrM0ss102.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4312,
+            "name": "雅阁 | 2023款 260TURBO 舒适版",
+            "modelFileName": "Honda_Accord_20240311",
+            "url": "https://nets.autohome.com.cn/3dm/4312",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 93
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 260TURBO 舒适版",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g28/M00/BC/DA/256x192_0_q95_autohomecar__CjIFVGQlGSmAX9iPAAc7V4qCb3Q772.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4313,
+            "name": "宝马3系 | 2024款 330i M运动曜夜套装",
+            "modelFileName": "BMW_330i_20240314",
+            "url": "https://nets.autohome.com.cn/3dm/4313",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 5
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 5
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 5
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 4
+                },
+                {
+                    "kind": "hub",
+                    "count": 93
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 3
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 2
+                },
+                {
+                    "kind": "empennage",
+                    "count": 15
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 330i M运动曜夜套装",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g27/M07/5E/5C/256x192_0_q95_autohomecar__CjIFVWSek2aAGW9mAAYMYE2JGw4829.png.png"
+                }
+            ]
         }
     ],
     "range": 4000
