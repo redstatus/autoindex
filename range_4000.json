@@ -11364,6 +11364,322 @@
                     "logo": "https://car2.autoimg.cn/cardfs/series/g27/M07/5E/5C/256x192_0_q95_autohomecar__CjIFVWSek2aAGW9mAAYMYE2JGw4829.png.png"
                 }
             ]
+        },
+        {
+            "id": 4314,
+            "name": "领克03 | 2023款 2.0TD DCT劲Pro",
+            "modelFileName": "LynkCo_03_20240315",
+            "url": "https://nets.autohome.com.cn/3dm/4314",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "empennage",
+                    "count": 2
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "hub",
+                    "count": 93
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 5
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 2.0TD DCT劲Pro",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g29/M06/7E/2E/256x192_0_q95_autohomecar__Chxkm2MQEz-ACEzVAAiQ7S1EZDI965.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4315,
+            "name": "思域(进口) | 2023款 2.0T 420TURBO TYPE R",
+            "modelFileName": "HONDA_Civic_TypeR_20240322",
+            "url": "https://nets.autohome.com.cn/3dm/4315",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "hub",
+                    "count": 93
+                },
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2023款 2.0T 420TURBO TYPE R",
+                    "logo": "https://car2.autoimg.cn/cardfs/series/g28/M03/A5/E4/256x192_0_q95_autohomecar__ChxkmmLY_M2ADi7gAAallJw2PU4204.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4316,
+            "name": "小鹏X9 | 2024款 610长续航Pro",
+            "modelFileName": "XPeng_X9_20240328",
+            "url": "https://nets.autohome.com.cn/3dm/4316",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 95
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 610长续航Pro",
+                    "logo": "https://car3.autoimg.cn/cardfs/series/g30/M04/81/89/256x192_0_q95_autohomecar__ChxknGWAF0uAK_ixAAepRrM6sT0015.png.png"
+                }
+            ]
+        },
+        {
+            "id": 4317,
+            "name": "索纳塔 | 2024款 1.5T Pro",
+            "modelFileName": "Hyundai_Sonata_20240403",
+            "url": "https://nets.autohome.com.cn/3dm/4317",
+            "thumbnail": null,
+            "parts": [
+                {
+                    "kind": "tyre",
+                    "count": 10
+                },
+                {
+                    "kind": "hood",
+                    "count": 1
+                },
+                {
+                    "kind": "callipers",
+                    "count": 1
+                },
+                {
+                    "kind": "painting",
+                    "count": 1
+                },
+                {
+                    "kind": "hub",
+                    "count": 93
+                },
+                {
+                    "kind": "sideSkirt",
+                    "count": 1
+                },
+                {
+                    "kind": "frontWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "roofTrunk",
+                    "count": 1
+                },
+                {
+                    "kind": "scene",
+                    "count": 11
+                },
+                {
+                    "kind": "backGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "frontGrille",
+                    "count": 1
+                },
+                {
+                    "kind": "brakeDisc",
+                    "count": 1
+                },
+                {
+                    "kind": "empennage",
+                    "count": 1
+                },
+                {
+                    "kind": "backWideBody",
+                    "count": 1
+                },
+                {
+                    "kind": "package",
+                    "count": 0
+                },
+                {
+                    "kind": "pPaintTexture",
+                    "count": 31
+                }
+            ],
+            "specs": [
+                {
+                    "name": "2024款 1.5T Pro",
+                    "logo": "https://img3.autoimg.cn/g31/M04/FA/3A/ChxoHWYSSyiAfxT1AAbam-BdSIQ649.png"
+                }
+            ]
         }
     ],
     "range": 4000
